@@ -69,15 +69,6 @@
 
 ---
 
-### 📊 GitHub Статистика
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yqshh&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yqshh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ### 📫 Как со мной связаться
 
 - **Telegram:** [@yqshhh](https://t.me/yqshhh) — самый быстрый способ связи

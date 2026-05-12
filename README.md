@@ -26,7 +26,7 @@
 ### ⚒️ Мой стек технологий
 
 #### Основной стек (1С и бэкенд)
-![1C](https://img.shields.io/badge/1C-8A2BE2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDRjMi4yMSAwIDQgMS43OSA0IDRzLTEuNzkgNC00IDQtNC0xLjc5LTQtNCAxLjc5LTQgNC00em0wIDljLTIuMjEgMC00LTEuNzktNC00IDAtLjUuMS0uOTguMjgtMS40Mi0xLjQyLjI4LTIuMzguOTgtMy4wOCAxLjg2LTEuMTUgMS4zOC0xLjggMy4wOC0xLjggNSA0IDQgNCA0IDQgNHoiLz48L3N2Zz4=&logoColor=white)](https://1c.ru)
+![1C](https://img.shields.io/badge/1C-8A2BE2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDRjMi4yMSAwIDQgMS43OSA0IDRzLTEuNzkgNC00IDQtNC0xLjc5LTQtNCAxLjc5LTQgNC00em0wIDljLTIuMjEgMC00LTEuNzktNC00IDAtLjUuMS0uOTguMjgtMS40Mi0xLjQyLjI4LTIuMzguOTgtMy4wOCAxLjg2LTEuMTUgMS4zOC0xLjggMy4wOC0xLjggNSA0IDQgNCA0IDQgNHoiLz48L3N2Zz4=&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -64,9 +64,8 @@
 | Проект | Описание | Технологии |
 | :--- | :--- | :--- |
 | [**Snake AI (PyTorch, DQN)**](https://github.com/Yqshh/SnakeGameAIModel) | 🔥 Реализация нейросети, играющей в классическую "Змейку", с использованием алгоритма Deep Q-Learning (DQN). | Python, PyTorch, Pygame |
-| [**1C_BeautySpace**](https://github.com/Yqshh/1C_BeautySpace) | 💅 Конфигурация 1С для салона красоты (управление записью, клиентами, услугами, финансами). | 1С:Предприятие 8 |
 | [**Task Manager**](https://github.com/Yqshh/TaskManagerDjango) | ✅ Простой и интуитивно понятный менеджер задач с аутентификацией пользователей и стильным интерфейсом. | Django, HTML, CSS |
-| [**GestureLab**](https://github.com/Yqshh/gesturelab) | ✋ Android-приложение для распознавания жестов с использованием кастомной нейронной сети. | Java, Android, Machine Learning |
+| [**GestureLab**](https://github.com/Yqshh/gesturelab) | ✋ Android-приложение для распознавания жестов | Java, Android  |
 
 ---
 

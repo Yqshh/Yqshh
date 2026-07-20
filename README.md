@@ -1,11 +1,35 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6b11b6,100:372572&height=180&section=header&text=Alex%20Yakush&fontSize=55&fontColor=ffffff&animation=fadeIn)](https://github.com/Yqshh)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6b11b6,100:372572&height=200&section=header&text=Alex%20Yakush&fontSize=60&fontColor=ffffff&animation=fadeIn)](https://github.com/Yqshh)
 
-&lt;h3 align="center"&gt;Программист 1С | 1С:ERP, УТП, СКД, REST API | Junior+&lt;/h3&gt;
+&lt;h3 align="center"&gt;Программист 1С | 1С:ERP, УТП, СКД, REST API | Middle&lt;/h3&gt;
 
 &lt;p align="center"&gt;
-  &lt;a href="https://t.me/yqshhh"&gt;&lt;img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"&gt;&lt;/a&gt;
-  &lt;a href="mailto:alex_yakush05@mail.ru"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"&gt;&lt;/a&gt;
-  &lt;a href="https://github.com/Yqshh"&gt;&lt;img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"&gt;&lt;/a&gt;
+  &lt;a href="https://t.me/yqshhh" target="_blank"&gt;&lt;img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /&gt;&lt;/a&gt;
+  &lt;a href="mailto:alex_yakush05@mail.ru" target="_blank"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;&lt;/a&gt;
+  &lt;a href="https://github.com/Yqshh" target="_blank"&gt;&lt;img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+---
+
+## ⚒️ Технический стек
+
+&lt;p&gt;
+  &lt;img src="https://img.shields.io/badge/1C%3AПредприятие%208.3-8A2BE2?style=for-the-badge&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/1С%3AERP-FF6B6B?style=for-the-badge&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/1С%3AУТП-4ECDC4?style=for-the-badge&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/1С%3AБухгалтерия-45B7D1?style=for-the-badge&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/СКД-96CEB4?style=for-the-badge&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/REST%20API-FF9F43?style=for-the-badge&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/HTTP--сервисs-6C5CE7?style=for-the-badge&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/JSON%2FXML-A8E6CF?style=for-the-badge&logoColor=white" /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /&gt;
 &lt;/p&gt;
 
 ---
@@ -49,16 +73,6 @@
 
 ---
 
-## ⚒️ Технический стек
-
-**1С и интеграции:** `1С:Предприятие 8.3` `1С:ERP` `1С:УТП` `1С:Бухгалтерия` `1С:Элемент` `СКД` `Управляемые формы` `Обычные формы` `Расширения конфигураций` `HTTP-сервисы` `REST API` `JSON` `XML`
-
-**Базы данных:** `SQL` `MS SQL Server` `PostgreSQL` `Пакетные запросы` `Временные таблицы` `Оптимизация запросов` `Управляемые блокировки`
-
-**Инструменты:** `Git` `Python` `FastAPI` `Администрирование 1С` `Оценка трудоёмкости` `Пользовательская документация`
-
----
-
 ## 🚀 Проекты
 
 | Проект | Описание | Стек |
@@ -85,5 +99,5 @@
 Готов выполнить тестовое задание и пройти собеседование.
 
 &lt;div align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b11b6,100:372572&height=100&section=footer"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b11b6,100:372572&height=100&section=footer" /&gt;
 &lt;/div&gt;

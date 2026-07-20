@@ -3,9 +3,9 @@
 &lt;h3 align="center"&gt;Программист 1С | 1С:ERP, УТП, СКД, REST API | Junior+&lt;/h3&gt;
 
 &lt;p align="center"&gt;
-  &lt;a href="https://t.me/yqshhh"&gt;&lt;img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="mailto:alex_yakush05@mail.ru"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="https://github.com/Yqshh"&gt;&lt;img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /&gt;&lt;/a&gt;
+  &lt;a href="https://t.me/yqshhh"&gt;&lt;img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"&gt;&lt;/a&gt;
+  &lt;a href="mailto:alex_yakush05@mail.ru"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"&gt;&lt;/a&gt;
+  &lt;a href="https://github.com/Yqshh"&gt;&lt;img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"&gt;&lt;/a&gt;
 &lt;/p&gt;
 
 ---
@@ -63,8 +63,8 @@
 
 | Проект | Описание | Стек |
 |:---|:---|:---|
-| [**Snake AI (DQN)**](https://github.com/Yqshh/SnakeGameAIModel) | Нейросеть, играющая в «Змейку» на PyTorch с алгоритмом Deep Q-Learning | Python, PyTorch, Pygame |
-| [**Task Manager**](https://github.com/Yqshh/TaskManagerDjango) | Менеджер задач с аутентификацией | Django, HTML, CSS |
+| [Snake AI (DQN)](https://github.com/Yqshh/SnakeGameAIModel) | Нейросеть, играющая в «Змейку» на PyTorch с алгоритмом Deep Q-Learning | Python, PyTorch, Pygame |
+| [Task Manager](https://github.com/Yqshh/TaskManagerDjango) | Менеджер задач с аутентификацией | Django, HTML, CSS |
 
 ---
 
@@ -85,5 +85,5 @@
 Готов выполнить тестовое задание и пройти собеседование.
 
 &lt;div align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b11b6,100:372572&height=100&section=footer" /&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b11b6,100:372572&height=100&section=footer"&gt;
 &lt;/div&gt;
